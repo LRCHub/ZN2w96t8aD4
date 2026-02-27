@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "君の好きなとこ",
+  "base_artist": "平井　堅",
+  "createdAt": "2026-02-27T07:37:06.354074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の好きなとこ",
+      "artist": "梶原岳人",
+      "has_synced": true,
+      "path": "select/01_君の好きなとこ_梶原岳人.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の好きなとこ",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/02_君の好きなとこ_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君の好きなとこ",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/03_君の好きなとこ_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君の好きなとこ - Kimino Sukinatoko",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/04_君の好きなとこ_-_Kimino_Sukinatoko_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君の好きなとこ",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/05_君の好きなとこ_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君の好きなとこ",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/06_君の好きなとこ_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君の好きなとこ (Instrumental)",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/07_君の好きなとこ_(Instrumental)_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君の好きなとこ",
+      "artist": "Hirai Ken",
+      "has_synced": true,
+      "path": "select/08_君の好きなとこ_Hirai_Ken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の好きなとこ",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_君の好きなとこ_平井_堅.txt"
+    }
+  ]
+}
